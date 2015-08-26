@@ -160,7 +160,7 @@ public class CityConnect {
 	/**
 	 * This operation determines which of the supported command types the user
 	 * wants to perform
-	 * 
+	 * 	
 	 * @param commandTypeString
 	 *            is the first word of the user command
 	 */
