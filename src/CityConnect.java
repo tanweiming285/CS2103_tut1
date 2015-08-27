@@ -48,7 +48,7 @@ public class CityConnect {
 	private static final String MESSAGE_NO_ROUTE = "No route exists from %1$s to %2$s!";
 	private static final String MESSAGE_ADDED = "Route from %1$s to %2$s with distance %3$skm added";
 	private static final String MESSAGE_INVALID_FORMAT = "invalid command format :%1$s";
-	private static final String WELCOME_MESSAGE = "Welcome to SimpleRouteStore!";
+	private static final String MESSAGE_WELCOME = "Welcome to SimpleRouteStore!";
 	private static final String MESSAGE_NO_SPACE = "No more space to store locations";
 
 	// These are the possible command types
